@@ -32,15 +32,15 @@ body{
 
 .text::before{
   color: #ff00c1;
-  animation: glitch-effect 3s infinite;
+  animation: FORZTK 3s infinite;
 }
 
 .text::after{
   color: #3498db;
-  animation: glitch-effect 2s infinite;
+  animation: FORZTK 2s infinite;
 }
 
-@keyframes glitch-effect {
+@keyframes FORZTK {
   0%{
     left: -2px;
     top: -2px;
